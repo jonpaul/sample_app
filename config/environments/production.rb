@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 SampleApp::Application.configure do
-=======
-FirstApp::Application.configure do
->>>>>>> 70bd02cd51bc603b38c0ecca3cba83dbab04cd67
   # Settings specified here will take precedence over those in config/environment.rb
 
   # The production environment is meant for finished, "live" apps.
