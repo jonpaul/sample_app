@@ -146,6 +146,15 @@ td.sidebar {
   margin-bottom: -15px;
 }
 
+/*User Index Page*/
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
+}
+
 /* Signup Form page 'create' */
 
 div.field, div.actions {
